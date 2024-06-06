@@ -48,7 +48,7 @@
 
 .lista_menu_link {
     background: var(--azul-degrade);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
 }
